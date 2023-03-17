@@ -1,2 +1,8 @@
-package PACKAGE_NAME;public class TestsBoxes {
+import org.junit.*;
+
+public class TestsBoxes {
+    @Test
+    public void testBoxCreate() {
+        Box b = new Box();
+    }
 }
