@@ -8,5 +8,6 @@
 # IntelliJ
 /out/
 *.xml
+*.iml
 # Java
 *.class
